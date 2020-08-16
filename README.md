@@ -26,12 +26,31 @@ And finally, create a pull request so your ProGrad Mentor (PM) can review your w
 ```
 
 ## Instructions
-The starter-code contains all the files, images, and text content needed to create the calendar. The text is in the index.html, and a css file is created in style.css. Font to be used should be Nunito Sans. Remember to follow the best practices.
+The starter-code contains all the files, images, and text content needed to create the calendar. Font to be used should be Nunito Sans. Remember to follow the best practices.
 
-### Progression 1: 
+### Progression 1: Pic Pic Pic
+Your task is to create a simple photo album. Refer the expected output as shown below.
 
+To create individual <div> to add image, Kindly refer the below code
+```
+<div class="card">
+   <div class="image">
+      <img src="./images/Problem.png">
+   </div>
+   <div class="title">
+    <h1>
+      Problem Solving Session</h1>
+   </div>
+   <div class="des">
+    <button> <a href="./images/Problem.png" download>Download Image</a></button>
+   </div>
+  </div>
+``` 
+### Progression 2: Make it lovely
 
-### Progression 3: On and Off 
+Add the required styling using the css part.
+  
+
 
 ## Expected Output
 Here is a screenshot of the expected output.
